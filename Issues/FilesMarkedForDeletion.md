@@ -1,5 +1,3 @@
-# Issues
-
 ## Files Mark For Deletion
 If files are marked for deletion and cannot be access elsewhere. here are some steps to fix it:
  
@@ -48,7 +46,3 @@ The following image shows an example of using the terminal to clear the delete s
 The output of the command shows that ```readme.txt``` was in delete state, and now that state is cleared.
 
 If the user do not exist, or you cannot get a hold of that user, an admin can used the same terminal command to clear the delete state. All ANGD fulltime facult have admin access.
-
-## Server is Down 
-If the Sever is down for a long time and seems to be in a limbo state, reach out to professor Li.
-

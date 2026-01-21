@@ -1,10 +1,12 @@
 # Perforce Server Documentation
 
-### Userful Topics:
+### Useful Topics:
 
 - [Environment Variable](Documentation/SystemVariable.md)
 
 - [P4IGNORE](Documentation/P4Ignore.md)
+
+- [Issues](Issues/Issues.md)
 
 - [Making a Workspace](Documentation/MakingWorkspace.md)
 
@@ -14,8 +16,6 @@
 - [General Workflow](Documentation/GeneralWorkflow.md)
 
 - [Perforce Official Tutorial](https://www.youtube.com/watch?v=jIQEjDiSe0g&list=PLH3pq2J85xsPYn71_yzzsZQKvalTW-duE)
-
-- [Issues](Documentation/Issues.md)
 
 - [Add New Project Folder](Documentation/AddBrandNewProject.md)
 
