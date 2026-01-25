@@ -1,5 +1,7 @@
 # Perforce Server Documentation
 
+## The server IP is 10.40.14.25:1666 
+
 ### Useful Topics:
 
 - [Environment Variable](Documentation/SystemVariable.md)
@@ -77,6 +79,7 @@
 
     |  Variable Name | Variable Value |
     |----------------|----------------|
+    | P4PORT         | 10.40.14.25:1666      |
     | P4IGNORE       | .p4ignore      |
     | P4USER         | Your User Name |
 
